@@ -1,0 +1,202 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "af3cfa74-a4e1-440c-b447-a23ba1001a82")
+	(paper "A5")
+	(lib_symbols)
+	(sheet
+		(at 60.96 81.28)
+		(size 15.24 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "07efea5d-a0cf-4cd0-a91f-6ca432bf6d14")
+		(property "Sheetname" "Back"
+			(at 60.96 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BackBoard.kicad_sch"
+			(at 60.96 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Rev.1"
+				(path "/af3cfa74-a4e1-440c-b447-a23ba1001a82"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 81.28)
+		(size 15.24 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "420fe028-99c2-46f7-82ef-d02bfa595c0b")
+		(property "Sheetname" "Lidar"
+			(at 90.17 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LidarBoard.kicad_sch"
+			(at 90.17 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Rev.1"
+				(path "/af3cfa74-a4e1-440c-b447-a23ba1001a82"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 81.28)
+		(size 15.24 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b4b282e2-f9b1-4b11-9c5f-9187c17dd7fc")
+		(property "Sheetname" "Tile"
+			(at 119.38 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TileBoard.kicad_sch"
+			(at 119.38 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Rev.1"
+				(path "/af3cfa74-a4e1-440c-b447-a23ba1001a82"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 34.29 81.28)
+		(size 15.24 8.89)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cb80d78a-fdd0-4a3d-a2b5-f10162c7fd77")
+		(property "Sheetname" "Top"
+			(at 34.29 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TopBoard.kicad_sch"
+			(at 34.544 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Rev.1"
+				(path "/af3cfa74-a4e1-440c-b447-a23ba1001a82"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 81.28)
+		(size 15.24 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dc9e14b6-3d4f-4812-9f47-da9a6ac552de")
+		(property "Sheetname" "Power"
+			(at 148.59 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerBoard.kicad_sch"
+			(at 148.59 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Rev.1"
+				(path "/af3cfa74-a4e1-440c-b447-a23ba1001a82"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,PHODET_RPR-220,1,RPR-220,
+C74,0603,1,0.1uF,
+"D10, D11",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,2,WS2812B,
+J25,JST_PH_B7B-PH-K_1x07_P2.00mm_Vertical,1,to TopBoard,
+R41,0603,1,100,
+R42,0603,1,100k,
+U20,S11059,1,S11059,
