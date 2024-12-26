@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "e5df71f7-7843-41fe-a6eb-7fd7f4ceadb9")
 	(paper "A3")
+	(title_block
+		(title "TopBoard Rev.1")
+		(rev "1")
+		(company "Fornax")
+	)
 	(lib_symbols
 		(symbol "AE-BNO055-BO:AE-BNO055-BO"
 			(exclude_from_sim no)
@@ -18820,7 +18825,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "47k"
 			(at 81.534 233.426 0)
 			(effects
 				(font
@@ -21886,7 +21891,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "47k"
 			(at 57.15 272.796 0)
 			(effects
 				(font
@@ -24213,7 +24218,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "47k"
 			(at 57.15 242.316 0)
 			(effects
 				(font
@@ -24745,7 +24750,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "47k"
 			(at 81.534 263.906 0)
 			(effects
 				(font

@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "b964756c-8187-4177-ad74-90e0c2512a7f")
 	(paper "A5")
+	(title_block
+		(title "PowerBoard Rev.1")
+		(rev "1")
+		(company "Fornax")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Socket"
 			(pin_names
