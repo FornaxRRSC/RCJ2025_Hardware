@@ -8006,6 +8006,16 @@
 		)
 		(uuid "49cdcc60-d62f-4fb6-b5df-6d0be01a0cb3")
 	)
+	(text "TX"
+		(exclude_from_sim no)
+		(at 139.7 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6ece5efa-0f91-41a6-8a57-2da3dab80dc6")
+	)
 	(text "VDD"
 		(exclude_from_sim no)
 		(at 238.76 19.05 0)
@@ -8028,16 +8038,6 @@
 		)
 		(uuid "7d6b423d-bc9a-4331-9914-35409ea744c8")
 	)
-	(text "TX"
-		(exclude_from_sim no)
-		(at 139.7 83.82 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "81608344-9acf-42c7-ae34-c33a4c8887f2")
-	)
 	(text "VDDA"
 		(exclude_from_sim no)
 		(at 261.62 19.05 0)
@@ -8049,35 +8049,25 @@
 		)
 		(uuid "82fb46e7-c77a-4dd7-ae15-eeecf9e1fffe")
 	)
-	(text "GND"
+	(text "RX"
 		(exclude_from_sim no)
-		(at 140.97 86.36 0)
+		(at 139.7 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "83a72bb5-aac3-40b6-97e6-ba6dfeedda01")
+		(uuid "849f3336-5632-495b-8852-d32bd3d08191")
 	)
 	(text "VCC"
 		(exclude_from_sim no)
-		(at 140.97 81.28 0)
+		(at 140.97 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "89bd7acb-5619-46c8-9002-6583e8eb5c8a")
-	)
-	(text "RX"
-		(exclude_from_sim no)
-		(at 139.7 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "8f764de3-b53c-4398-935e-af85ceee4364")
+		(uuid "87d1b1c3-a0b1-4239-902b-728a01b03cc7")
 	)
 	(text "VDD"
 		(exclude_from_sim no)
@@ -8100,16 +8090,6 @@
 		)
 		(uuid "ae3d4e48-5915-44bc-acc2-453d9e901b42")
 	)
-	(text "PH,Horizontal"
-		(exclude_from_sim no)
-		(at 138.43 90.678 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "cdd9c21a-9677-411e-92d4-fe4c4986b144")
-	)
 	(text "CONN"
 		(exclude_from_sim no)
 		(at 116.332 113.284 0)
@@ -8120,6 +8100,16 @@
 		)
 		(uuid "d97740e4-6928-4698-bf75-447c202e2ac9")
 	)
+	(text "PH,Horizontal"
+		(exclude_from_sim no)
+		(at 138.43 79.502 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "df27867f-6a53-4e61-80ee-b058592693e4")
+	)
 	(text "POWER&COM"
 		(exclude_from_sim no)
 		(at 24.638 14.732 0)
@@ -8129,6 +8119,16 @@
 			)
 		)
 		(uuid "ec039486-fa5c-477d-be9e-ea9511744f5d")
+	)
+	(text "GND"
+		(exclude_from_sim no)
+		(at 140.97 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f2060832-ee7d-4aa7-9ea7-2d10e4b34f04")
 	)
 	(text "VBAT"
 		(exclude_from_sim no)
@@ -10835,81 +10835,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Socket")
-		(at 138.43 83.82 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "63dffc33-f0c4-4982-a2b4-721526635c56")
-		(property "Reference" "J23"
-			(at 136.652 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "LIDAR"
-			(at 135.636 78.486 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal"
-			(at 138.43 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 138.43 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 138.43 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e91f477e-5286-4f28-b22a-aafe7c507f79")
-		)
-		(pin "3"
-			(uuid "d873af1e-c76e-439e-9669-82bda941124d")
-		)
-		(pin "4"
-			(uuid "42c4436f-6683-4a32-b48f-5f819743e96e")
-		)
-		(pin "2"
-			(uuid "4b261be8-1735-44e9-bb2c-80a0f8a8b7cc")
-		)
-		(instances
-			(project ""
-				(path "/af3cfa74-a4e1-440c-b447-a23ba1001a82/420fe028-99c2-46f7-82ef-d02bfa595c0b"
-					(reference "J23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 193.04 55.88 0)
 		(unit 1)
@@ -11239,6 +11164,82 @@
 			(project "Rev.1"
 				(path "/af3cfa74-a4e1-440c-b447-a23ba1001a82/420fe028-99c2-46f7-82ef-d02bfa595c0b"
 					(reference "C67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Socket")
+		(at 138.43 86.36 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "67698cac-3ed9-4a40-88b9-560f4b6928fb")
+		(property "Reference" "J23"
+			(at 136.652 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LIDAR"
+			(at 135.636 91.694 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal"
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "78211e65-d130-4bb5-a794-b384467abe47")
+		)
+		(pin "3"
+			(uuid "3fc46720-365b-4a72-bf17-27e5d8fdc2fa")
+		)
+		(pin "4"
+			(uuid "5790c315-401d-4ddc-b2a8-495922ba6da6")
+		)
+		(pin "2"
+			(uuid "5141e37e-77f3-456c-8150-81ae700d7c35")
+		)
+		(instances
+			(project "Rev.1"
+				(path "/af3cfa74-a4e1-440c-b447-a23ba1001a82/420fe028-99c2-46f7-82ef-d02bfa595c0b"
+					(reference "J23")
 					(unit 1)
 				)
 			)
