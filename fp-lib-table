@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "OKL-T-6-W12N-C")(type "KiCad")(uri "${KIPRJMOD}/OKL-T-6-W12N-C.pretty")(options "")(descr ""))
+  (lib (name "B-12CCP")(type "KiCad")(uri "${KIPRJMOD}/B-12CCP.pretty")(options "")(descr ""))
+  (lib (name "XIAO")(type "KiCad")(uri "${KIPRJMOD}/XIAO.pretty")(options "")(descr ""))
 )
