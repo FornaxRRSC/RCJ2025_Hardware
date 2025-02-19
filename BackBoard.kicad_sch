@@ -8557,6 +8557,10 @@
 		(uuid "404f8653-f1db-44f5-b11f-48961cd22723")
 	)
 	(no_connect
+		(at 278.13 115.57)
+		(uuid "4a28742b-115a-48fc-a2ae-cfbb240e0ee6")
+	)
+	(no_connect
 		(at 127 251.46)
 		(uuid "4a6fe6dc-8963-4d2d-987c-60729b7f6165")
 	)
@@ -8617,8 +8621,8 @@
 		(uuid "6904fb7f-1774-4783-9ac0-0f3ba208963d")
 	)
 	(no_connect
-		(at 278.13 138.43)
-		(uuid "6ea9544c-566b-4b70-822f-ee6f76e5fa4c")
+		(at 149.86 132.08)
+		(uuid "79bc807e-9b48-49a6-a6ae-e17ff34851ed")
 	)
 	(no_connect
 		(at 278.13 92.71)
@@ -9132,16 +9136,6 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 142.24) (xy 302.26 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19bf3437-6595-4914-b16b-4e6477e016d5")
-	)
-	(wire
-		(pts
 			(xy 278.13 87.63) (xy 279.4 87.63)
 		)
 		(stroke
@@ -9632,16 +9626,6 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 132.08) (xy 151.13 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "36f5271c-0d0e-4d8a-8473-9aa09205102e")
-	)
-	(wire
-		(pts
 			(xy 88.9 256.54) (xy 91.44 256.54)
 		)
 		(stroke
@@ -9889,6 +9873,26 @@
 			(type default)
 		)
 		(uuid "4cecad60-15a1-4da7-9030-d8975b644abe")
+	)
+	(wire
+		(pts
+			(xy 300.99 142.24) (xy 300.99 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d6ae18a-9eee-4ef1-ae40-c42d85432b3f")
+	)
+	(wire
+		(pts
+			(xy 279.4 138.43) (xy 278.13 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e860cb3-8e52-4c0f-a506-d5f10f204e79")
 	)
 	(wire
 		(pts
@@ -10332,6 +10336,16 @@
 	)
 	(wire
 		(pts
+			(xy 300.99 148.59) (xy 279.4 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "717604cf-9458-4f4c-9edc-2097b0012ba2")
+	)
+	(wire
+		(pts
 			(xy 41.91 135.89) (xy 46.99 135.89)
 		)
 		(stroke
@@ -10439,16 +10453,6 @@
 			(type default)
 		)
 		(uuid "7a0aa594-7432-4f64-8a8f-5dd867ed7004")
-	)
-	(wire
-		(pts
-			(xy 278.13 115.57) (xy 279.4 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a4e5432-ff51-4f72-9865-88600e29bf39")
 	)
 	(wire
 		(pts
@@ -11129,6 +11133,16 @@
 			(type default)
 		)
 		(uuid "b5723cbc-16eb-4c3a-a955-414af085ed08")
+	)
+	(wire
+		(pts
+			(xy 279.4 148.59) (xy 279.4 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b74a157b-d583-44af-bcfe-a4cef7435aa5")
 	)
 	(wire
 		(pts
@@ -12072,6 +12086,16 @@
 		)
 		(uuid "3ca3e9fd-cfcc-4d58-817b-b18d493e98cc")
 	)
+	(text "STM32 for UI"
+		(exclude_from_sim no)
+		(at 25.4 162.814 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "42f75e0e-ba82-4349-a349-beb2a18c0eb0")
+	)
 	(text "VDDA"
 		(exclude_from_sim no)
 		(at 194.31 168.91 0)
@@ -12395,17 +12419,6 @@
 		)
 		(uuid "2426d7b4-1db4-4eae-8d27-cfa759bb1b20")
 	)
-	(label "SWO"
-		(at 151.13 132.08 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "256331d4-6150-4614-9e44-81cd4fdf9ed3")
-	)
 	(label "SCL"
 		(at 279.4 85.09 0)
 		(fields_autoplaced yes)
@@ -12724,17 +12737,6 @@
 			(justify right bottom)
 		)
 		(uuid "9496afc4-3853-49c5-acf2-9276460dd41a")
-	)
-	(label "SWO"
-		(at 279.4 115.57 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9526f57a-d1ea-4663-b9e9-ed8d5a9e1f1b")
 	)
 	(label "RX"
 		(at 128.27 198.12 0)
@@ -14771,71 +14773,6 @@
 			(project "Rev.1"
 				(path "/af3cfa74-a4e1-440c-b447-a23ba1001a82/07efea5d-a0cf-4cd0-a91f-6ca432bf6d14"
 					(reference "R34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+7.5V")
-		(at 302.26 142.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1e3f285b-5a66-40e8-8bd4-318d3c2d572e")
-		(property "Reference" "#PWR0105"
-			(at 302.26 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+7.5V"
-			(at 305.308 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 302.26 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 302.26 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+7.5V\""
-			(at 302.26 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3fcab1fe-9934-4a89-b219-743410da27c8")
-		)
-		(instances
-			(project ""
-				(path "/af3cfa74-a4e1-440c-b447-a23ba1001a82/07efea5d-a0cf-4cd0-a91f-6ca432bf6d14"
-					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -21186,7 +21123,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "470"
 			(at 297.18 142.24 90)
 			(effects
 				(font
@@ -21319,7 +21256,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "680"
 			(at 203.454 36.068 90)
 			(effects
 				(font
