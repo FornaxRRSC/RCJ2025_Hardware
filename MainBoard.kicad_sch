@@ -19385,7 +19385,6 @@
 	)
 	(label "DIN4"
 		(at 563.88 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19396,7 +19395,6 @@
 	)
 	(label "TX10"
 		(at 193.04 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19407,7 +19405,6 @@
 	)
 	(label "SCK"
 		(at 82.55 345.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19418,7 +19415,6 @@
 	)
 	(label "TX7"
 		(at 176.53 294.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19429,7 +19425,6 @@
 	)
 	(label "DIN1"
 		(at 66.04 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19440,7 +19435,6 @@
 	)
 	(label "DIN5"
 		(at 363.22 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19451,7 +19445,6 @@
 	)
 	(label "MISO"
 		(at 82.55 341.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19462,7 +19455,6 @@
 	)
 	(label "SCK"
 		(at 228.6 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19473,7 +19465,6 @@
 	)
 	(label "TX9"
 		(at 363.22 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19484,7 +19475,6 @@
 	)
 	(label "DIN2"
 		(at 485.14 200.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19495,7 +19485,6 @@
 	)
 	(label "RX4"
 		(at 325.12 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19506,7 +19495,6 @@
 	)
 	(label "RX7"
 		(at 485.14 160.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19517,7 +19505,6 @@
 	)
 	(label "XSHUT1"
 		(at 485.14 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19528,7 +19515,6 @@
 	)
 	(label "RX6"
 		(at 228.6 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19539,7 +19525,6 @@
 	)
 	(label "PWM1"
 		(at 485.14 210.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19550,7 +19535,6 @@
 	)
 	(label "DC"
 		(at 41.91 341.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19561,7 +19545,6 @@
 	)
 	(label "SWDIO"
 		(at 147.32 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19572,7 +19555,6 @@
 	)
 	(label "TX5"
 		(at 228.6 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19583,7 +19565,6 @@
 	)
 	(label "RX4"
 		(at 563.88 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19594,7 +19575,6 @@
 	)
 	(label "SCL"
 		(at 83.82 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19605,7 +19585,6 @@
 	)
 	(label "DIN1"
 		(at 134.62 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19616,7 +19595,6 @@
 	)
 	(label "NRST"
 		(at 486.41 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19627,7 +19605,6 @@
 	)
 	(label "PWM2"
 		(at 563.88 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19638,7 +19615,6 @@
 	)
 	(label "SDA"
 		(at 485.14 182.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19649,7 +19625,6 @@
 	)
 	(label "SDA"
 		(at 22.86 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19660,7 +19635,6 @@
 	)
 	(label "AD1"
 		(at 85.09 237.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19671,7 +19645,6 @@
 	)
 	(label "TX2"
 		(at 563.88 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19682,7 +19655,6 @@
 	)
 	(label "PWM2"
 		(at 129.54 140.97 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19693,7 +19665,6 @@
 	)
 	(label "SWDIO"
 		(at 563.88 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19704,7 +19675,6 @@
 	)
 	(label "RX5"
 		(at 228.6 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19715,7 +19685,6 @@
 	)
 	(label "SCL2"
 		(at 74.93 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19726,7 +19695,6 @@
 	)
 	(label "SCL"
 		(at 485.14 180.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19737,7 +19705,6 @@
 	)
 	(label "RX10"
 		(at 193.04 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19748,7 +19715,6 @@
 	)
 	(label "SWDIO2"
 		(at 363.22 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19759,7 +19725,6 @@
 	)
 	(label "AD2"
 		(at 85.09 267.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19770,7 +19735,6 @@
 	)
 	(label "RX10"
 		(at 363.22 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19781,7 +19745,6 @@
 	)
 	(label "MOSI"
 		(at 228.6 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19792,7 +19755,6 @@
 	)
 	(label "SWCLK"
 		(at 147.32 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19803,7 +19765,6 @@
 	)
 	(label "SWCLK2"
 		(at 193.04 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19814,7 +19775,6 @@
 	)
 	(label "TX5"
 		(at 563.88 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19825,7 +19785,6 @@
 	)
 	(label "TX10"
 		(at 363.22 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19836,7 +19795,6 @@
 	)
 	(label "TX8"
 		(at 82.55 349.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19847,7 +19805,6 @@
 	)
 	(label "TX6"
 		(at 228.6 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19858,7 +19815,6 @@
 	)
 	(label "CS"
 		(at 228.6 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19869,7 +19825,6 @@
 	)
 	(label "TX9"
 		(at 233.68 270.51 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19880,7 +19835,6 @@
 	)
 	(label "PWM1"
 		(at 129.54 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19891,7 +19845,6 @@
 	)
 	(label "DIN4"
 		(at 121.92 232.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19902,7 +19855,6 @@
 	)
 	(label "RX1"
 		(at 147.32 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19913,7 +19865,6 @@
 	)
 	(label "AD2"
 		(at 485.14 172.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19924,7 +19875,6 @@
 	)
 	(label "MISO"
 		(at 228.6 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19935,7 +19885,6 @@
 	)
 	(label "RX1"
 		(at 563.88 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19946,7 +19895,6 @@
 	)
 	(label "SCL"
 		(at 35.56 182.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19957,7 +19905,6 @@
 	)
 	(label "MOSI"
 		(at 82.55 337.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19968,7 +19915,6 @@
 	)
 	(label "SDA2"
 		(at 325.12 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19979,7 +19925,6 @@
 	)
 	(label "DIN1"
 		(at 563.88 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19990,7 +19935,6 @@
 	)
 	(label "XSHUT1"
 		(at 35.56 172.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20001,7 +19945,6 @@
 	)
 	(label "AD1"
 		(at 563.88 170.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20012,7 +19955,6 @@
 	)
 	(label "DIN5"
 		(at 31.75 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20023,7 +19965,6 @@
 	)
 	(label "RX2"
 		(at 48.26 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20034,7 +19975,6 @@
 	)
 	(label "RX9"
 		(at 363.22 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20045,7 +19985,6 @@
 	)
 	(label "NRST2"
 		(at 193.04 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20056,7 +19995,6 @@
 	)
 	(label "SDA"
 		(at 35.56 201.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20067,7 +20005,6 @@
 	)
 	(label "RX6"
 		(at 563.88 177.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20078,7 +20015,6 @@
 	)
 	(label "TX6"
 		(at 563.88 175.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20089,7 +20025,6 @@
 	)
 	(label "DIN3"
 		(at 365.76 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20100,7 +20035,6 @@
 	)
 	(label "SCL"
 		(at 22.86 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20111,7 +20045,6 @@
 	)
 	(label "RX5"
 		(at 563.88 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20122,7 +20055,6 @@
 	)
 	(label "SWCLK"
 		(at 563.88 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20133,7 +20065,6 @@
 	)
 	(label "TX2"
 		(at 48.26 92.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20144,7 +20075,6 @@
 	)
 	(label "DIN3"
 		(at 25.4 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20155,7 +20085,6 @@
 	)
 	(label "SCL2"
 		(at 363.22 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20166,7 +20095,6 @@
 	)
 	(label "RX9"
 		(at 233.68 260.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20177,7 +20105,6 @@
 	)
 	(label "CS"
 		(at 41.91 345.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20188,7 +20115,6 @@
 	)
 	(label "SDA"
 		(at 83.82 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20199,7 +20125,6 @@
 	)
 	(label "DIN2"
 		(at 83.82 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20210,7 +20135,6 @@
 	)
 	(label "NRST"
 		(at 148.59 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20221,7 +20145,6 @@
 	)
 	(label "TX4"
 		(at 563.88 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20232,7 +20155,6 @@
 	)
 	(label "RX2"
 		(at 563.88 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20243,7 +20165,6 @@
 	)
 	(label "SCL"
 		(at 35.56 204.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20254,7 +20175,6 @@
 	)
 	(label "DIN5"
 		(at 342.9 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20265,7 +20185,6 @@
 	)
 	(label "NRST2"
 		(at 321.31 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20276,7 +20195,6 @@
 	)
 	(label "TX1"
 		(at 563.88 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20287,7 +20205,6 @@
 	)
 	(label "SWDIO2"
 		(at 193.04 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20298,7 +20215,6 @@
 	)
 	(label "PC2"
 		(at 233.68 264.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20309,7 +20225,6 @@
 	)
 	(label "DC"
 		(at 228.6 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20320,7 +20235,6 @@
 	)
 	(label "XSHUT2"
 		(at 35.56 194.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20331,7 +20245,6 @@
 	)
 	(label "SWCLK2"
 		(at 363.22 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20342,7 +20255,6 @@
 	)
 	(label "RX8"
 		(at 41.91 349.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20353,7 +20265,6 @@
 	)
 	(label "TX7"
 		(at 485.14 162.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20364,7 +20275,6 @@
 	)
 	(label "PC2"
 		(at 325.12 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20375,7 +20285,6 @@
 	)
 	(label "SDA2"
 		(at 74.93 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20386,7 +20295,6 @@
 	)
 	(label "DIN3"
 		(at 363.22 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20397,7 +20305,6 @@
 	)
 	(label "RX8"
 		(at 485.14 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20408,7 +20315,6 @@
 	)
 	(label "TX1"
 		(at 147.32 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20419,7 +20325,6 @@
 	)
 	(label "TX8"
 		(at 485.14 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20430,7 +20335,6 @@
 	)
 	(label "SDA"
 		(at 35.56 180.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20441,7 +20345,6 @@
 	)
 	(label "RX7"
 		(at 138.43 294.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20452,7 +20355,6 @@
 	)
 	(label "XSHUT2"
 		(at 485.14 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20463,7 +20365,6 @@
 	)
 	(label "TX4"
 		(at 363.22 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -33450,7 +33351,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 450.85 78.74 90)
 			(effects
 				(font
@@ -34599,7 +34500,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 302.26 60.96 90)
 			(effects
 				(font
