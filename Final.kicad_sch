@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4")
+	(paper "A5")
+	(lib_symbols)
+	(sheet
+		(at 135.89 67.31)
+		(size 19.05 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4ccb1d87-a2eb-4440-a04b-5921d3896f33")
+		(property "Sheetname" "Tile_Board"
+			(at 135.89 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TileBoard.kicad_sch"
+			(at 135.89 77.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Final"
+				(path "/b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 46.99 67.31)
+		(size 19.05 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5e2c5efc-af52-4afb-95f7-c9bf48be30a7")
+		(property "Sheetname" "Main_Board"
+			(at 46.99 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MainBoard.kicad_sch"
+			(at 46.99 77.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Final"
+				(path "/b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 67.31)
+		(size 19.05 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "929cb8df-faf1-4b76-b08f-e9b1157ac8fa")
+		(property "Sheetname" "Back_Board"
+			(at 77.47 66.6111 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BackBoard.kicad_sch"
+			(at 77.47 78.0419 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Final"
+				(path "/b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.68 67.31)
+		(size 19.05 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c1886009-0e76-49ab-abb8-cf6747e8b8bf")
+		(property "Sheetname" "LiDAR_Board"
+			(at 106.68 66.6111 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LidarBoard.kicad_sch"
+			(at 106.68 77.8819 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Final"
+				(path "/b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
