@@ -5,4 +5,5 @@
   (lib (name "Adafruit_BNO085")(type "KiCad")(uri "${KIPRJMOD}/Adafruit_BNO085.pretty")(options "")(descr ""))
   (lib (name "OKL-T-6-W12N-C")(type "KiCad")(uri "${KIPRJMOD}/OKL-T-6-W12N-C.pretty")(options "")(descr ""))
   (lib (name "B-12CCP")(type "KiCad")(uri "${KIPRJMOD}/B-12CCP.pretty")(options "")(descr ""))
+  (lib (name "R3111N211A")(type "KiCad")(uri "${KIPRJMOD}/R3111N211A.pretty")(options "")(descr ""))
 )

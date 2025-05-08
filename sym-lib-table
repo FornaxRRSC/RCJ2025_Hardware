@@ -5,4 +5,5 @@
   (lib (name "TPS22811")(type "KiCad")(uri "${KIPRJMOD}/TPS22811.kicad_sym")(options "")(descr ""))
   (lib (name "Adafruit_BNO085")(type "KiCad")(uri "${KIPRJMOD}/Adafruit_BNO085.kicad_sym")(options "")(descr ""))
   (lib (name "OKL-T-6-W12N-C")(type "KiCad")(uri "${KIPRJMOD}/OKL-T-6-W12N-C.kicad_sym")(options "")(descr ""))
+  (lib (name "R3111N211A")(type "KiCad")(uri "${KIPRJMOD}/R3111N211A.kicad_sym")(options "")(descr ""))
 )
