@@ -182,14 +182,15 @@
         0.3,
         0.4,
         0.5,
-        0.6,
-        0.7,
         1.0,
         1.2,
         1.5,
         2.0,
+        2.5,
         3.0,
-        4.0
+        4.0,
+        6.0,
+        8.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -509,7 +510,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MainBoard-Rev3.step",
       "svg": "",
       "vrml": ""
     },
@@ -617,7 +618,7 @@
   "sheets": [
     [
       "b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4",
-      "ルート"
+      "Root"
     ],
     [
       "5e2c5efc-af52-4afb-95f7-c9bf48be30a7",

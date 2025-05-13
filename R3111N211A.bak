@@ -116,7 +116,7 @@
 				)
 			)
 			(pin output line
-				(at -13.97 2.54 0)
+				(at 13.97 0 180)
 				(length 5.08)
 				(name "OUT"
 					(effects
@@ -134,7 +134,7 @@
 				)
 			)
 			(pin power_in line
-				(at -13.97 0 0)
+				(at -13.97 3.81 0)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -152,7 +152,7 @@
 				)
 			)
 			(pin power_in line
-				(at -13.97 -2.54 0)
+				(at -13.97 -3.81 0)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -170,7 +170,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 13.97 2.54 180)
+				(at -7.62 10.16 270)
 				(length 5.08)
 				(name "NC_1"
 					(effects
@@ -188,7 +188,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 13.97 0 180)
+				(at -5.08 10.16 270)
 				(length 5.08)
 				(name "NC_2"
 					(effects

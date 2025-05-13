@@ -6,4 +6,6 @@
   (lib (name "OKL-T-6-W12N-C")(type "KiCad")(uri "${KIPRJMOD}/OKL-T-6-W12N-C.pretty")(options "")(descr ""))
   (lib (name "B-12CCP")(type "KiCad")(uri "${KIPRJMOD}/B-12CCP.pretty")(options "")(descr ""))
   (lib (name "R3111N211A")(type "KiCad")(uri "${KIPRJMOD}/R3111N211A.pretty")(options "")(descr ""))
+  (lib (name "B12AP_NKK")(type "KiCad")(uri "${KIPRJMOD}/B12AP_NKK.pretty")(options "")(descr ""))
+  (lib (name "3362P-1-103LF")(type "KiCad")(uri "${KIPRJMOD}/3362P-1-103LF.pretty")(options "")(descr ""))
 )

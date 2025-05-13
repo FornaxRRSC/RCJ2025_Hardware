@@ -543,290 +543,6 @@
 				)
 			)
 		)
-		(symbol "B-12CCP:B-12CCP"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 0.508 12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "B-12CCP"
-				(at 0.508 11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "B-12CCP_0_0"
-				(circle
-					(center -2.032 6.35)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.413 -2.159) (xy -1.143 -0.889)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.143 -2.159) (xy 0.127 -0.889)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.635 1.27) (xy -0.635 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.413 -1.524) (xy -2.413 -2.159) (xy -1.778 -2.159)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.143 -1.524) (xy -1.143 -2.159) (xy -0.508 -2.159)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.635 0) (xy 1.27 1.27) (xy 1.27 -1.27) (xy -0.635 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 2.032 3.81)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "B-12CCP_0_1"
-				(polyline
-					(pts
-						(xy -1.524 6.604) (xy 1.5748 8.636)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 8.89)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "B-12CCP_1_1"
-				(rectangle
-					(start -3.175 10.16)
-					(end 3.175 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 5.08 8.89 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 6.35 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Connector:Conn_01x02_Socket"
 			(pin_names
 				(offset 1.016) hide)
@@ -11037,6 +10753,179 @@
 				)
 			)
 		)
+		(symbol "Switch:SW_SPDT"
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_SPDT"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Switch, single pole double throw"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch single-pole double-throw spdt ON-ON"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SW_SPDT_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.651 0.254) (xy 1.651 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 -2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SW_SPDT_1_1"
+				(rectangle
+					(start -3.175 3.81)
+					(end 3.175 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "VL53l0X:VL53L0X_SwScience_6pin"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -13705,6 +13594,10 @@
 		(uuid "1186fac0-dff7-4120-8bc0-d597347c3df9")
 	)
 	(no_connect
+		(at 361.95 129.54)
+		(uuid "11d91f42-3448-4bc8-9922-e471bd081394")
+	)
+	(no_connect
 		(at 486.41 132.08)
 		(uuid "1312ecb1-50ba-4f8c-a1b7-23d4ec1bab92")
 	)
@@ -14562,16 +14455,6 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 139.7) (xy 373.38 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c2d62ab-c6b7-4b21-9126-6cca61811f68")
-	)
-	(wire
-		(pts
 			(xy 298.45 245.11) (xy 285.75 245.11)
 		)
 		(stroke
@@ -14939,16 +14822,6 @@
 			(type default)
 		)
 		(uuid "1fff6982-f224-40b1-8438-c81954f2e017")
-	)
-	(wire
-		(pts
-			(xy 373.38 139.7) (xy 373.38 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2044fdba-bc80-41fe-b54b-abae77879a75")
 	)
 	(wire
 		(pts
@@ -17192,16 +17065,6 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 129.54) (xy 361.95 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ffcc54c-2d68-4b70-9068-42f5230a6d90")
-	)
-	(wire
-		(pts
 			(xy 544.83 35.56) (xy 554.99 35.56)
 		)
 		(stroke
@@ -18102,16 +17965,6 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 133.35) (xy 387.35 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ceb03b87-07ee-4d1e-adfc-a55aa4a89309")
-	)
-	(wire
-		(pts
 			(xy 454.66 78.74) (xy 455.93 78.74)
 		)
 		(stroke
@@ -18742,16 +18595,6 @@
 	)
 	(wire
 		(pts
-			(xy 370.84 133.35) (xy 375.92 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2bbd7ca-0da5-450f-beca-13f6d72f7a6a")
-	)
-	(wire
-		(pts
 			(xy 173.99 31.75) (xy 175.26 31.75)
 		)
 		(stroke
@@ -18829,16 +18672,6 @@
 			(type default)
 		)
 		(uuid "f670bab2-1ee1-4443-a8ba-92701e901236")
-	)
-	(wire
-		(pts
-			(xy 394.97 133.35) (xy 394.97 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6c48979-e012-466c-abc7-23c6dce3bb01")
 	)
 	(wire
 		(pts
@@ -19828,7 +19661,6 @@
 	)
 	(label "DIN4"
 		(at 563.88 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19839,7 +19671,6 @@
 	)
 	(label "TX10"
 		(at 193.04 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19850,7 +19681,6 @@
 	)
 	(label "SCK"
 		(at 82.55 345.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19861,7 +19691,6 @@
 	)
 	(label "TX7"
 		(at 176.53 294.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19872,7 +19701,6 @@
 	)
 	(label "DIN1"
 		(at 66.04 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19883,7 +19711,6 @@
 	)
 	(label "DIN5"
 		(at 363.22 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19894,7 +19721,6 @@
 	)
 	(label "MISO"
 		(at 82.55 341.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19905,7 +19731,6 @@
 	)
 	(label "SCK"
 		(at 228.6 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19916,7 +19741,6 @@
 	)
 	(label "TX9"
 		(at 363.22 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19927,7 +19751,6 @@
 	)
 	(label "DIN2"
 		(at 485.14 200.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19938,7 +19761,6 @@
 	)
 	(label "RX4"
 		(at 325.12 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19949,7 +19771,6 @@
 	)
 	(label "RX7"
 		(at 485.14 160.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19960,7 +19781,6 @@
 	)
 	(label "XSHUT1"
 		(at 485.14 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19971,7 +19791,6 @@
 	)
 	(label "RX6"
 		(at 228.6 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19982,7 +19801,6 @@
 	)
 	(label "PWM1"
 		(at 485.14 210.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19993,7 +19811,6 @@
 	)
 	(label "DC"
 		(at 41.91 341.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20004,7 +19821,6 @@
 	)
 	(label "SWDIO"
 		(at 147.32 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20015,7 +19831,6 @@
 	)
 	(label "TX5"
 		(at 228.6 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20026,7 +19841,6 @@
 	)
 	(label "RX4"
 		(at 563.88 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20037,7 +19851,6 @@
 	)
 	(label "SCL"
 		(at 83.82 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20048,7 +19861,6 @@
 	)
 	(label "NRST"
 		(at 486.41 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20059,7 +19871,6 @@
 	)
 	(label "PWM2"
 		(at 563.88 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20070,7 +19881,6 @@
 	)
 	(label "SDA"
 		(at 485.14 182.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20081,7 +19891,6 @@
 	)
 	(label "SDA"
 		(at 22.86 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20092,7 +19901,6 @@
 	)
 	(label "AD1"
 		(at 85.09 237.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20103,7 +19911,6 @@
 	)
 	(label "NRST2"
 		(at 312.42 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20114,7 +19921,6 @@
 	)
 	(label "TX2"
 		(at 563.88 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20125,7 +19931,6 @@
 	)
 	(label "PWM2"
 		(at 129.54 140.97 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20136,7 +19941,6 @@
 	)
 	(label "SWDIO"
 		(at 563.88 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20147,7 +19951,6 @@
 	)
 	(label "RX5"
 		(at 228.6 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20158,7 +19961,6 @@
 	)
 	(label "SCL2"
 		(at 74.93 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20169,7 +19971,6 @@
 	)
 	(label "SCL"
 		(at 485.14 180.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20180,7 +19981,6 @@
 	)
 	(label "RX10"
 		(at 193.04 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20191,7 +19991,6 @@
 	)
 	(label "SWDIO2"
 		(at 363.22 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20202,7 +20001,6 @@
 	)
 	(label "AD2"
 		(at 85.09 267.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20213,7 +20011,6 @@
 	)
 	(label "RX10"
 		(at 363.22 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20224,7 +20021,6 @@
 	)
 	(label "MOSI"
 		(at 228.6 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20235,7 +20031,6 @@
 	)
 	(label "SWCLK"
 		(at 147.32 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20246,7 +20041,6 @@
 	)
 	(label "SWCLK2"
 		(at 193.04 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20257,7 +20051,6 @@
 	)
 	(label "TX5"
 		(at 563.88 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20268,7 +20061,6 @@
 	)
 	(label "TX10"
 		(at 363.22 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20279,7 +20071,6 @@
 	)
 	(label "TX8"
 		(at 82.55 349.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20290,7 +20081,6 @@
 	)
 	(label "TX6"
 		(at 228.6 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20301,7 +20091,6 @@
 	)
 	(label "CS"
 		(at 228.6 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20312,7 +20101,6 @@
 	)
 	(label "TX9"
 		(at 233.68 270.51 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20323,7 +20111,6 @@
 	)
 	(label "PWM1"
 		(at 129.54 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20334,7 +20121,6 @@
 	)
 	(label "DIN4"
 		(at 121.92 232.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20345,7 +20131,6 @@
 	)
 	(label "RX1"
 		(at 147.32 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20356,7 +20141,6 @@
 	)
 	(label "AD2"
 		(at 485.14 172.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20367,7 +20151,6 @@
 	)
 	(label "MISO"
 		(at 228.6 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20378,7 +20161,6 @@
 	)
 	(label "RX1"
 		(at 563.88 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20389,7 +20171,6 @@
 	)
 	(label "SCL"
 		(at 35.56 182.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20400,7 +20181,6 @@
 	)
 	(label "MOSI"
 		(at 82.55 337.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20411,7 +20191,6 @@
 	)
 	(label "SDA2"
 		(at 325.12 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20422,7 +20201,6 @@
 	)
 	(label "DIN1"
 		(at 563.88 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20433,7 +20211,6 @@
 	)
 	(label "XSHUT1"
 		(at 35.56 172.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20444,7 +20221,6 @@
 	)
 	(label "AD1"
 		(at 563.88 170.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20455,7 +20231,6 @@
 	)
 	(label "DIN5"
 		(at 31.75 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20466,7 +20241,6 @@
 	)
 	(label "RX2"
 		(at 48.26 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20477,7 +20251,6 @@
 	)
 	(label "RX9"
 		(at 363.22 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20488,7 +20261,6 @@
 	)
 	(label "NRST2"
 		(at 193.04 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20499,7 +20271,6 @@
 	)
 	(label "SDA"
 		(at 35.56 201.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20510,7 +20281,6 @@
 	)
 	(label "RX6"
 		(at 563.88 177.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20521,7 +20291,6 @@
 	)
 	(label "TX6"
 		(at 563.88 175.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20532,7 +20301,6 @@
 	)
 	(label "DIN3"
 		(at 365.76 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20543,7 +20311,6 @@
 	)
 	(label "SCL"
 		(at 22.86 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20554,7 +20321,6 @@
 	)
 	(label "RX5"
 		(at 563.88 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20565,7 +20331,6 @@
 	)
 	(label "SWCLK"
 		(at 563.88 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20576,7 +20341,6 @@
 	)
 	(label "TX2"
 		(at 48.26 92.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20587,7 +20351,6 @@
 	)
 	(label "DIN3"
 		(at 25.4 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20598,7 +20361,6 @@
 	)
 	(label "SCL2"
 		(at 363.22 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20609,7 +20371,6 @@
 	)
 	(label "RX9"
 		(at 233.68 260.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20620,7 +20381,6 @@
 	)
 	(label "CS"
 		(at 41.91 345.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20631,7 +20391,6 @@
 	)
 	(label "SDA"
 		(at 83.82 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20642,7 +20401,6 @@
 	)
 	(label "DIN2"
 		(at 83.82 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20653,7 +20411,6 @@
 	)
 	(label "NRST"
 		(at 148.59 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20664,7 +20421,6 @@
 	)
 	(label "TX4"
 		(at 563.88 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20675,7 +20431,6 @@
 	)
 	(label "RX2"
 		(at 563.88 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20686,7 +20441,6 @@
 	)
 	(label "SCL"
 		(at 35.56 204.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20697,7 +20451,6 @@
 	)
 	(label "DIN5"
 		(at 342.9 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20708,7 +20461,6 @@
 	)
 	(label "NRST2"
 		(at 321.31 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20719,7 +20471,6 @@
 	)
 	(label "TX1"
 		(at 563.88 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20730,7 +20481,6 @@
 	)
 	(label "SWDIO2"
 		(at 193.04 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20741,7 +20491,6 @@
 	)
 	(label "PC2"
 		(at 233.68 264.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20752,7 +20501,6 @@
 	)
 	(label "DC"
 		(at 228.6 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20763,7 +20511,6 @@
 	)
 	(label "XSHUT2"
 		(at 35.56 194.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20774,7 +20521,6 @@
 	)
 	(label "SWCLK2"
 		(at 363.22 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20785,7 +20531,6 @@
 	)
 	(label "RX8"
 		(at 41.91 349.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20796,7 +20541,6 @@
 	)
 	(label "TX7"
 		(at 485.14 162.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20807,7 +20551,6 @@
 	)
 	(label "PC2"
 		(at 325.12 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20818,7 +20561,6 @@
 	)
 	(label "SDA2"
 		(at 74.93 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20829,7 +20571,6 @@
 	)
 	(label "DIN3"
 		(at 363.22 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20840,7 +20581,6 @@
 	)
 	(label "RX8"
 		(at 485.14 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20851,7 +20591,6 @@
 	)
 	(label "TX1"
 		(at 147.32 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20862,7 +20601,6 @@
 	)
 	(label "TX8"
 		(at 485.14 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20873,7 +20611,6 @@
 	)
 	(label "SDA"
 		(at 35.56 180.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20884,7 +20621,6 @@
 	)
 	(label "RX7"
 		(at 138.43 294.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20895,7 +20631,6 @@
 	)
 	(label "XSHUT2"
 		(at 485.14 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20906,7 +20641,6 @@
 	)
 	(label "TX4"
 		(at 363.22 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24552,83 +24286,6 @@
 		)
 	)
 	(symbol
-		(lib_id "B-12CCP:B-12CCP")
-		(at 381 133.35 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "295e479e-7af4-4809-a2ce-d75ca91b3717")
-		(property "Reference" "SW5"
-			(at 381 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "B-12CCP"
-			(at 381 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "B-12CCP:B-12CCP"
-			(at 381 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 381 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 381 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "6dec0514-5e4e-4a66-aad4-a21e89abea44")
-		)
-		(pin "1"
-			(uuid "17862412-e814-4bcd-b17d-ad4acde4f3fa")
-		)
-		(pin "3"
-			(uuid "8c2ceda1-fded-433b-82b6-bec0674c9200")
-		)
-		(pin "2"
-			(uuid "2b3a78ab-a4aa-4b2f-bf59-1cf0697623a6")
-		)
-		(pin "6"
-			(uuid "0ac08f78-81b6-4fd1-8ba0-1683dffe15e6")
-		)
-		(instances
-			(project "Final"
-				(path "/b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4/5e2c5efc-af52-4afb-95f7-c9bf48be30a7"
-					(reference "SW5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 179.07 106.68 0)
 		(unit 1)
@@ -25966,6 +25623,77 @@
 			(project "Final"
 				(path "/b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4/5e2c5efc-af52-4afb-95f7-c9bf48be30a7"
 					(reference "M1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPDT")
+		(at 381 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a10c801-b032-4d50-9aaa-f29cd0fddca1")
+		(property "Reference" "SW10"
+			(at 381 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "START_SWITCH"
+			(at 381 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "B12AP_NKK:B12AP_NKK"
+			(at 381 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 381 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Switch, single pole double throw"
+			(at 381 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "5a8e1925-790f-4c97-9023-1152ba4c189a")
+		)
+		(pin "1"
+			(uuid "2947fac6-26a1-4d86-8278-ff796ae2942b")
+		)
+		(pin "2"
+			(uuid "8dab5ffd-9291-4e06-9bdf-49d4032c023e")
+		)
+		(instances
+			(project ""
+				(path "/b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4/5e2c5efc-af52-4afb-95f7-c9bf48be30a7"
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -29083,71 +28811,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 370.84 133.35 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7adde4f4-4363-401f-8c3b-eb306e2a98f4")
-		(property "Reference" "#PWR055"
-			(at 370.84 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 370.332 137.414 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 370.84 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 370.84 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 370.84 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fef6c89b-b536-4ed4-b3ed-23af056602f8")
-		)
-		(instances
-			(project "Final"
-				(path "/b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4/5e2c5efc-af52-4afb-95f7-c9bf48be30a7"
-					(reference "#PWR055")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 481.33 83.82 90)
 		(unit 1)
@@ -29751,73 +29414,6 @@
 			(project ""
 				(path "/b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4/5e2c5efc-af52-4afb-95f7-c9bf48be30a7"
 					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 391.16 133.35 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8e097df0-18c7-4946-af96-c4b609b62bff")
-		(property "Reference" "R13"
-			(at 391.16 131.064 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 391.16 133.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 391.16 135.128 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 391.16 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 391.16 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3657708c-2490-4f69-bb35-c6b70f2b075e")
-		)
-		(pin "2"
-			(uuid "ff458701-c7a3-44ff-b755-596cd05f7ae9")
-		)
-		(instances
-			(project "Final"
-				(path "/b87cc2f7-3ac1-4af1-9a0e-9dfc79f9f7c4/5e2c5efc-af52-4afb-95f7-c9bf48be30a7"
-					(reference "R13")
 					(unit 1)
 				)
 			)

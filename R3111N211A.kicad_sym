@@ -45,7 +45,7 @@
 			)
 		)
 		(property "Description" "Supervisory Circuits Low Voltage Detector"
-			(at -13.97 2.54 0)
+			(at -13.716 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -170,7 +170,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -7.62 10.16 270)
+				(at 1.27 10.16 270)
 				(length 5.08)
 				(name "NC_1"
 					(effects
@@ -188,7 +188,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 10.16 270)
+				(at 3.81 10.16 270)
 				(length 5.08)
 				(name "NC_2"
 					(effects
